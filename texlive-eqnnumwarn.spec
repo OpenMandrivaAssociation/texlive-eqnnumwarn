@@ -1,6 +1,6 @@
 Name:		texlive-eqnnumwarn
 Version:	45511
-Release:	1
+Release:	2
 Summary:	Modifies the amsmath equation environments to warn for a displaced equation number
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/eqnnumwarn

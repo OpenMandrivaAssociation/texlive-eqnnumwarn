@@ -3,7 +3,7 @@ Version:	45511
 Release:	2
 Summary:	Modifies the amsmath equation environments to warn for a displaced equation number
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/eqnnumwarn
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/eqnnumwarn
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/eqnnumwarn.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/eqnnumwarn.doc.r%{version}.tar.xz
